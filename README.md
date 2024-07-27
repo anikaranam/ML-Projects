@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee54fe81-9d5a-4ed8-815a-7fd8dc183900)# ML-Projects
+# ML-Projects
 Repo to store my experiments with different ML Algorithms
 ![Screenshot 2024-07-09 at 11 34 21 PM](https://github.com/anikaranam/ML-Projects/assets/42919048/27d9f27d-2516-4479-82e6-ed2380777317)
 ![Screenshot 2024-07-09 at 11 34 53 PM](https://github.com/anikaranam/ML-Projects/assets/42919048/42ebd851-31ef-48da-b09b-715ecffa7886)
