@@ -1,7 +1,8 @@
 # ML-Projects
 Repo to store my experiments with different ML Algorithms
 
-NBA Player Salary Analysis:
+### NBA Player Salary Analysis:
+
 <img width="959" alt="Screenshot 2024-08-10 at 6 06 50 PM" src="https://github.com/user-attachments/assets/5be38bbb-397e-4a23-85aa-8ca4619a6092">
 
 1. Bradley Beal's salary disparity makes sense because he plays for the Suns but is currently on a super max contract from Washington, suffered nagging injuries and didn't play much this season and performed well below his expectations
