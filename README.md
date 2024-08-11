@@ -58,6 +58,12 @@ This next chart also shows exactly how the shot proportions changed over the yea
 ![Screenshot 2024-07-09 at 11 35 33 PM](https://github.com/anikaranam/ML-Projects/assets/42919048/433d4f93-33e0-4ceb-9607-7ce2ac66d73a)
 
 
+### Comparison of the percentage of shots across the 4 quarters of an NBA game
+
+In this project, I wanted to answer this question: Over the course of 4 quarters, do teams usually change their approach in terms of shot distances / shot types? For example, do teams usually take more layups or dunks in the beginning of the game when defenses are less tight, followed by a gradual shift towards jump shots towards the of the game?
+Based on the chart visualized above, this does not appear to be the case. The percentage of jump shots taken over the 4 quarters remains steady at around 53-55%, while the remaining shots are usually accounted for by layups and pullup jump shots.
+
+
 <img width="942" alt="Screenshot 2024-07-26 at 11 00 26 PM" src="https://github.com/user-attachments/assets/b3878709-29db-495f-972b-4f42326cb608">
 
 
