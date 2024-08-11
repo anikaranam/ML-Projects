@@ -2,10 +2,18 @@
 Repo to store my experiments with different ML Algorithms
 
 ### Clutch shooting percentage analysis:
+
 In this project, I wanted to understand how players' shooting percentages differ in clutch time (5 point game, < 5 minutes to go) compared to the rest of the game.
 The hypothesis is that while you would expect the shooting percentages to go down across the board because of pressure and tighter defense, we can identify players that are the most and least "clutch" (this is more of an abstract term used to describe players who take and make tough shots during clutch time).
 If a player has a very significant drop off in regular time vs clutch situations, we can imply that their respective teams would be better off with someone else taking a majority of the shots in clutch time.
+
+
 ![Screenshot 2024-07-09 at 11 34 21 PM](https://github.com/anikaranam/ML-Projects/assets/42919048/27d9f27d-2516-4479-82e6-ed2380777317)
+
+
+### Defensive distance analysis:
+
+In this project, based on NBA shot log data from the 2014/15 season, I wanted to measure the average close out distance for all NBA players and see if this data correlates with popular perceptions of different players' defensive aptitude.
 
 
 ![Screenshot 2024-07-09 at 11 34 53 PM](https://github.com/anikaranam/ML-Projects/assets/42919048/42ebd851-31ef-48da-b09b-715ecffa7886)
