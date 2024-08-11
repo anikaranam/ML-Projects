@@ -1,5 +1,9 @@
-# ML-Projects
-Repo to store my experiments with different ML Algorithms
+# NBA Data Experiments
+
+This repository serves as my playground for experimenting with different NBA datasets. The goals of this project are simple:
+1. Analyze data to find insights and observations that are not visible to the naked eye
+2. Corroborate my knowledge of the sport and the players with actual data
+3. Answer questions that pop up in my head when I'm watching a game
 
 ### NBA Player Salary Analysis:
 
