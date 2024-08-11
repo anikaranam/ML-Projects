@@ -43,10 +43,16 @@ Some insights:
 ### Comparison of the popularity of the midrange shot versus the three point shot
 
 An aspect of the modern NBA game that is very different from the late 90s and 2000s is the number of three pointers being attempted and converted on a regular basis. But what kind of shots are teams moving away from in favor of the three? The graph below illustrates the ever declining popularity of the midrange shot (roughly 10-16 feet from the basket) contrasted with the rapid growth of the three pointer in recent years.
-Notice when the percentage of three point shots really starts to take off: around 2012-13 / 2013-14. The 5-6 years following that saw a rapid increase in the number of three pointers being attempted league-wide. This just so happens to coincide with the reign of one of the NBA's greatest ever dynasties - the Golden State Warriors. With Mark Jackson and later Steve Kerr, the Warriors embraced small ball, led by arguably the 2 greatest shooters ever bombing threes all game. The Rockets are another team that had a lot of success with the three-heavy approach, led by Mike D'Antoni. It's no surprise that the success of these teams inspired a shift in the league paradigm and teams' approach towards the three.
+
+Notice when the percentage of three point shots really starts to take off: around 2012-13 / 2013-14. The 5-6 years following that saw a rapid increase in the number of three pointers being attempted league-wide. This just so happens to coincide with the reign of one of the NBA's greatest ever dynasties - the Golden State Warriors. With Mark Jackson and later Steve Kerr, the Warriors embraced small ball, led by arguably the 2 greatest shooters ever bombing threes all game. The Rockets are another team that had a lot of success with the three-heavy approach, led by Mike D'Antoni. 
+
+It's no surprise that the success of these teams inspired a shift in the league paradigm and teams' approach towards the three.
 
 
 ![Screenshot 2024-07-09 at 11 35 14 PM](https://github.com/anikaranam/ML-Projects/assets/42919048/ea9e4cbb-1382-4412-891e-0b3f8a56e54d)
+
+
+This next chart also shows exactly how the shot proportions changed over the years. The percentage of short distance shots (layups, dunks, floaters etc) remained about the same between 1997/98 and 2019/20, but a huge chunk of the midrange shots were replaced by threes.
 
 
 ![Screenshot 2024-07-09 at 11 35 33 PM](https://github.com/anikaranam/ML-Projects/assets/42919048/433d4f93-33e0-4ceb-9607-7ce2ac66d73a)
